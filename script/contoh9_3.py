@@ -4,6 +4,6 @@ import seaborn as sns
 
 df = sns.load_dataset('iris')
 
-sns.stripplot(x='species', y='petal_length', data=df, jitter=False)
+sns.swarmplot(x='species', y='petal_length', data=df)
 
 plt.show()
