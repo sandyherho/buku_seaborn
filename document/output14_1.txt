@@ -1,0 +1,6 @@
+year     month  passengers
+0  1949   January         112
+1  1949  February         118
+2  1949     March         132
+3  1949     April         129
+4  1949       May         121
